@@ -1,2 +1,2 @@
-# Expeanse_GUI
+# Expense_GUI
 Program for not expense
